@@ -10,7 +10,6 @@ from wrappers.clock import Clock
 from wrappers.trigger import Trigger
 
 
-
 ARROSOIR_PIN = 19
 ALARM_PIN = 15
 CLOCK_SDA = 21
